@@ -2,7 +2,7 @@
 Zenoss Server, Monitoring Management Plugin Pack for Huawei Device
 ****************************************************************************
 
-I. General Information  <span style="color: red"> Some red text </span>
+I. General Information  
 
     Name:     Management Plugin Pack for Huawei Device
     Category: Monitoring
